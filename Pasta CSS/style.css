@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    background: linear-gradient(135deg, #feef4f, #feb600);
     margin: 0;
     padding: 0;
 }
@@ -37,7 +37,7 @@ input {
 
 /* Botão estilizado */
 button {
-    background: #4facfe;
+    background: #ff74b5;
     color: white;
     border: none;
     padding: 10px 15px;
@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-    background: #0077ff;
+    background: #ff008c;
 }
 
 /* Lista */
